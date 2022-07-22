@@ -19,8 +19,8 @@ from __future__ import division
 from __future__ import print_function
 
 import re
-import tensorflow as tf
-
+#import tensorflow as tf
+import tf.compat.v1 as tf #<- Personalnote: modified to run on this example:https://colab.research.google.com/drive/1nVn6AFpQSzXBt8_ywfx6XR8ZfQXlKGAz#scrollTo=9S4CiOh3RzFW
 
 def create_optimizer(loss, init_lr, num_train_steps, num_warmup_steps, use_tpu):
   """Creates an optimizer training op."""
