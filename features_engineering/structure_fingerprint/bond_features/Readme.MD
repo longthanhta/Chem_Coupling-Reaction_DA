@@ -1,0 +1,2 @@
+- Run CORE_multi_multiprocess_BB_AAM.py first
+- Run CORE_multi_multiprocess_BB_AAM.py second
