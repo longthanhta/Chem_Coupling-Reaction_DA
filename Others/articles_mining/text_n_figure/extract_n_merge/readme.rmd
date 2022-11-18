@@ -1,4 +1,0 @@
-This self-built tool uses EasyOCR to extract text/description and use OSRA to get chem. struct. boxes
-We use some algorithms to get desired text, and merge them together with figure.
-
-Link to database to run scripts/jupyter notebook: shorturl.at/lnD59
