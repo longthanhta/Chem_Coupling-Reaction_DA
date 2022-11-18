@@ -34,3 +34,8 @@ Based on https://www.nature.com/articles/nchem.136, conduct graph analysis netwo
 ## 8 Unsupervised clustering
 
 Contain script for conducting k-means and visualizing interactive plot in html (using plotly).
+
+
+## 9 Nature Langauge Processing for chemical reaction (in SMILES format)
+
+Google Collab to run pre-trained BERT model on SMILES presentation of chemical reaction, better to run on GPU mode (require subcription)
